@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <math.h>
-#include <string.h>
 
 const char DATA_FILE_NAME[] = "TestData.txt";
 
